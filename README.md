@@ -25,7 +25,7 @@
 
 - 🎓 BCA Graduate
 - 🐍 Currently strengthening my **Python** skills
-- 📊 Learning **Data Analysis, Data Science & Machine Learning**
+- 📊 Learning **Data Analysis & Data Science**
 - 💻 Building practical projects to improve my programming skills
 - 🌐 Have experience with web development fundamentals
 - ⛓️ Exploring **Blockchain & Web3** through hands-on projects
