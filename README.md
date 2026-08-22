@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm DIPANSU PATTANAYAK
 
-### 🐍 Python Developer | 📊 Data Analysis Learner | 💻 BCA Graduate
+### 🐍 Python | 📊 Data Analysis Learner | 💻 BCA Graduate
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
