@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm DIPANSU PATTANAYAK
 
-### 🐍 Python | ☕ Java | 📊 Data Analysis | 💻 BCA Graduate
+### 🐍 Python | ☕ Java | 📊 Data Analysis | 💻 Pursuing MCA | 💻 BCA Graduate
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -22,6 +22,7 @@
 
 ## 👨‍💻 About Me
 
+* 💻 MCA Student
 * 🎓 BCA Graduate
 * 🐍 Currently strengthening my **Python** skills
 * ☕ Currently learning **Java**
